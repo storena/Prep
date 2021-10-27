@@ -1,3 +1,8 @@
+---
+title: 03-JSIII
+permalink: "/{{ title }}/index.html"
+---
+
 <img  src='../logo.png' height='70px'>
 
 # Lección 3: JSIII - Class + Prototype

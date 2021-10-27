@@ -1,3 +1,8 @@
+---
+title: 00-Intro-GIT-HTML-CSS
+permalink: "/{{ title }}/index.html"
+---
+
 <img  src='../logo.png' height='70px'>
 
 # Fundamentos HTML/CSS

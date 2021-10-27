@@ -1,3 +1,8 @@
+---
+title: 01-JSI
+permalink: "/{{ title }}/index.html"
+---
+
 <img  src='../logo.png' height='70px'>
 
 # Lección 1: JSI - Introducción a Javascript

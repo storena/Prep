@@ -1,3 +1,8 @@
+---
+title: 04-JSIV
+permalink: "/{{ title }}/index.html"
+---
+
 <img  src='../logo.png' height='70px'>
 
 # Lección 4: JSVI - Callbacks

@@ -1,3 +1,8 @@
+---
+title: 02-JSII
+permalink: "/{{ title }}/index.html"
+---
+
 <img  src='../logo.png' height='70px'>
 
 # Lección 2: JSII - Arrays + Objects

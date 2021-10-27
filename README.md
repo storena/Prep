@@ -1,3 +1,8 @@
+---
+title: Curso introductorio a JavaScript
+permalink: "/index.html"
+---
+
 <img  src='./logo.png' height='70px'>
 
 ## Curso introductorio a JavaScript
@@ -8,4 +13,4 @@
 * [03 - JSIII - Class + Prototype](./03-JSIII)
 * [04 - JSIV - Callbacks](./04-JSIV)
 
-### Si querés saber más sobre la carrera de Full Stack Developer de Henry ingresa a https://www.soyhenry.com/
+### Si querés saber más sobre la carrera de Full Stack Developer de Henry ingresa a <https://www.soyhenry.com>
