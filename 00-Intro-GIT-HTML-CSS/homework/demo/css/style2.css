@@ -1,0 +1,13 @@
+h1 {
+    color: yellow; background-color: black;
+}
+
+/* CLASS, etiqueta repetible las veces que se desee */
+.green {
+    color: green;
+}
+
+/* ID, etiqueta única, solo un elemento la puede tener */
+#red {
+    color: red;
+}
