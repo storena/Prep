@@ -1,0 +1,10 @@
+h1 {
+    color: red;
+}
+#thirdDiv {
+    height: 600px; width: 500px; background-color: grey; padding: 50px;
+    border-width: 50px; border-style: double; border-color: black;
+}
+#spanID {
+    font-size: 25px; margin: 50px;
+}
